@@ -45,13 +45,6 @@
       url(../images/hero-image.jpg);
   }
 
-  @media (min-resolution: 2dppx) {
-    .hero-page {
-      background-image: linear-gradient(to bottom, var(--grey), var(--grey)),
-        url("../images/dark-bg-desk-2x.jpg");
-    }
-  }
-
   .section-features {
     padding: 120px 156px;
   }
